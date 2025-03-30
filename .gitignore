@@ -14,7 +14,7 @@
 /out/
 
 # mcp
-/mcp-config.ts
+# /mcp-config.ts
 
 # production
 /build
